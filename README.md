@@ -11,4 +11,8 @@ git clone https://github.com/Krio69/Simple-Portfolio-Website.git
 pip install flask
 # Run the Flask app
 python app.py
-
+# Project Structure
+Simple-Portfolio-Website/
+│── static/           # CSS, Images
+│── templates/        # HTML files 
+│── app.py            # Flask application
